@@ -1,4 +1,9 @@
-var name = "Vatsal";
+let name = "Vatsal";
+let me = null;
 const constname = "Vatsal";
 
-constname = "changedName";
+name = "changedName";
+
+let number = 17;
+console.log(typeof number);
+console.log(typeof me);
